@@ -13,5 +13,7 @@ development_dependencies:
   ameba:
     github: crystal-ameba/ameba
     version: ~> 1.6.0
+  hot_topic: # For stubbing queries to the Prometheus server
+    github: jgaskins/hot_topic
 
 license: MIT
